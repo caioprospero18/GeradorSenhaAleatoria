@@ -1,7 +1,7 @@
 # GeradorSenhaAleatoria
 Gerador de senha aleatória em Python
 
-Senha obrigatóriamente gerada com 1 letra maíuscula, 1 letra minúscula, 1 número e 1 caractere especial
+Senha pode ser gerada utilizando apenas letras, números ou caracteres especial, ou todas as opções juntas
 
 Senha não pode ter menos de 4 caracteres
 
